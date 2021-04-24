@@ -1,3 +1,3 @@
 # FMI-database-project-2020
-TestMed
+TestMed  
 Simple DB project for a course in FMI.
